@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online. O que foi desenvolvido no curso, complementa um outro projeto de UI feito por mim.
 
-- [Projeto DevLinks](https://github.com/lynx144-ux/Projeto-Front-End.io)
+- [Projeto DevLinks](https://lynx144-ux.github.io/Projeto-Front-End/)
 
 - [Projeto de UI - Fallout: New Vegas Remastered](https://www.figma.com/proto/gMKWVFiMNGXIz0DtogFhcX/PROJETO-TESTE?node-id=65-29&t=xOqnPcVaEGL0q5Sk-1&scaling=contain&content-scaling=fixed)
 
