@@ -31,7 +31,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online. O 
 
 - [Projeto DevLinks](https://github.com/lynx144-ux/Projeto-Front-End.git)
 
-- [Projeto de UI - Fallout: New Vegas Remastered](https://www.figma.com/proto/gMKWVFiMNGXIz0DtogFhcX/PROJETO-TESTE?node-id=65-29&p=f&viewport=53%2C-62%2C0.11&t=u9WxzTLCOUIbdtZA-1&scaling=contain&content-scaling=fixed&page-id=0%3A1)
+- [Projeto de UI - Fallout: New Vegas Remastered](https://www.figma.com/proto/gMKWVFiMNGXIz0DtogFhcX/PROJETO-TESTE?node-id=65-29&t=xOqnPcVaEGL0q5Sk-1&scaling=contain&content-scaling=fixed)
 
 ## 🔖 Layout
 
